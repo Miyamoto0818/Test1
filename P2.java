@@ -14,5 +14,6 @@ public class P2{
             su2 = su3;
         }
         System.out.println(sum1);
+        System.out.println("sample");
     }
 }
