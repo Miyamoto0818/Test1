@@ -7,5 +7,6 @@ public class P1{
             }
         }
         System.out.println(sum);
+        System.out.println("Test");
     }
 }
